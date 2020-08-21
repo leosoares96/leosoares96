@@ -23,7 +23,7 @@ Com atuação desde o entendimento dos projetos, levantamento de requisitos, cri
 - E-mail: leo.soares64@outlook.com
 - Linkedin: https://www.linkedin.com/in/leonardo-soares/
 - Medium: [https://medium.com/@leosoares96](https://medium.com/@leosoares96 "https://medium.com/@leosoares96")
-- Rocketset: [https://app.rocketseat.com.br/me/leonardo-soares](https://medium.com/@leosoares96 "https://medium.com/@leosoares96")
+- Rocketset: https://app.rocketseat.com.br/me/leonardo-soares
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosoares96&hide_langs_below=)](https://github.com/leosoares96/github-readme-stats)
