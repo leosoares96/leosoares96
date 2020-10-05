@@ -22,6 +22,7 @@ Com atuação desde o entendimento dos projetos, levantamento de requisitos, cri
 ### Contatos :email:
 - E-mail: leo.soares64@outlook.com
 - Linkedin: https://www.linkedin.com/in/leonardo-soares/
+- Tableau: https://public.tableau.com/profile/leosoares96
 - Medium: [https://medium.com/@leosoares96](https://medium.com/@leosoares96 "https://medium.com/@leosoares96")
 - Rocketset: https://app.rocketseat.com.br/me/leonardo-soares
 - Sourcerer: https://sourcerer.io/leosoares96
