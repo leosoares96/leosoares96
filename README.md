@@ -1,4 +1,4 @@
-### Sou um Desenvolvedor Full-Stack :computer: :rocket:
+### Sou um Desenvolvedor Web :computer: :rocket:
 
 Atualmente como Analista de Banco de Dados na Porto Seguro, tendo como função realizar analises, modelagens e desenvolvimento de bancos de dados, com foco em projetos e rotinas dentro da área de *MIS*(*management information system*).
 
