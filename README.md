@@ -6,7 +6,6 @@ Com atuação desde o entendimento dos projetos, levantamento de requisitos, cri
 
 
 ### Formação :mortar_board:
-- **Pós Graduando em Engenharia de Dados**, Instituto de Gestão e Tecnologia da Informação (2020 - 2021)
 - **Desenvolvedor Full-Stack**, Instituto de Gestão e Tecnologia da Informação (2020)
 - **Bachelado em Sistemas de Informação**, Impacta Tecnologia (2016 - 2019)
 - **Técnico em Informática**, ETEC (2016 - 2017)
