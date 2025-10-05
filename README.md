@@ -43,8 +43,9 @@ Tenho paixão por transformar dados em insights estratégicos que geram valor re
 ## Contato
 
 - Linkedin: https://www.linkedin.com/in/leonardo-soares/
+- Medium: https://medium.com/@leosoares96
 - Tableau: https://public.tableau.com/profile/leosoares96
-- Medium: [https://medium.com/@leosoares96](https://medium.com/@leosoares96 "https://medium.com/@leosoares96")
+- Credly: https://www.credly.com/users/leonardo-soares-pereira/badges
 
 ---
 
