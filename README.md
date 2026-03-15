@@ -42,6 +42,7 @@ Tenho paixão por transformar dados em insights estratégicos que geram valor re
 
 ## Contato
 
+- Portifolio: https://leosoares96.github.io/
 - Linkedin: https://www.linkedin.com/in/leonardo-soares/
 - Medium: https://medium.com/@leosoares96
 - Tableau: https://public.tableau.com/profile/leosoares96
