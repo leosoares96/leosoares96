@@ -76,6 +76,7 @@ Led the technical development of a B2B claims platform: data modeling, ETL, APIs
 ## 🎓 Certifications & Education
 
 **AWS** — Certified Data Engineer (Associate) · Certified AI Practitioner · Certified Cloud Practitioner<br>
+**AWS Microcredential** — [Data Lakehouse Demonstrated](https://www.credly.com/badges/9950deab-df9c-4ae8-98de-b5e8fcb82aab) — hands-on exam lab on Athena, Glue, Apache Iceberg, Lake Formation, EventBridge and Data Firehose<br>
 **Itaú Unibanco** — 5 internal certifications in Data Engineering, Analytics Engineering, and Generative AI
 
 - **Business Analytics** — Harvard Business School Online, 2025
