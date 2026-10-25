@@ -26,7 +26,7 @@ Currently **Tech Lead of the Data Platform behind the pricing engines at Itaú U
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[NYC Taxi Analytics Pipeline](https://github.com/leosoares96/nyc-taxi-analytics-pipeline)** <br> `study project` | Batch ELT over large-scale mobility data, with dimensional modeling, tests, and a visualization layer. | Airflow · dbt · DuckDB · Streamlit |
+| **[NYC Taxi Analytics Pipeline](https://github.com/leosoares96/nyc-taxi-analytics-pipeline)** <br> `study project` | Ingestion from Kaggle, aggregations in DuckDB, data validation with Great Expectations, and an interactive dashboard over NYC taxi trip data. | Python · DuckDB · Great Expectations · Streamlit |
 | **[Titanic Data Pipeline](https://github.com/leosoares96/titanic-data-pipeline-streamlit)** <br> `study project` | Reproducible pipeline with ingestion, transformation, data quality validation, and a serving layer. | Python · Pandas · Parquet · SQLite · Streamlit |
 
 **Product work** *(closed source — live products)*
